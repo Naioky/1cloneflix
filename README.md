@@ -1,2 +1,4 @@
-# 1cloneflix
-clone flix
+#cloneflix
+
+
+###homepag copy - study
