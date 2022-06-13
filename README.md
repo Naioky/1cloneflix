@@ -1,4 +1,11 @@
 <h1>Template Netflix</h1>
 
 
-homepag copy - study
+homepage copy - study
+
+
+## tecnologias
+
++ JS
++ HTML
++ CSS
