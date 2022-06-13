@@ -1,4 +1,4 @@
-<h1>cloneflix</h1>
+<h1>Template Netflix</h1>
 
 
 homepag copy - study
